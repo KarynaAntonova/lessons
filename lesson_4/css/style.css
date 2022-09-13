@@ -1,0 +1,56 @@
+img {
+    max-width: 600px;
+}
+/* .the-night-watch{
+    color: rgb(19, 30, 133);
+} */
+#rembrandt{
+    color: rgb(20, 220, 103);
+    font-family: "Larsseit";
+    font-weight: 500;
+}
+/* .the-night-watch p{
+    color: rgb(207, 241, 14);
+} */
+.the-night-watch~h2{
+    color: rgb(15, 189, 233);
+    font-family: "Lato";
+    font-weight: 900;
+}
+/* .the-night-watch+h2{
+    color: rgb(209, 206, 12);
+} */
+.the-night-watch>p{
+    color: rgb(63, 19, 5);
+    font-family: "Larsseit";
+    font-weight: 400;
+}
+h2.miracles {
+    color: rgb(69, 52, 102);
+    font-family: "Lato";
+    font-weight: 700;
+}
+/* .the-night-watch *{
+    color: crimson;
+} */
+.paintings{
+    color: rgb(10, 32, 95);
+    font-family: "Roboto";
+    font-weight: 700;
+}
+/* div{
+    color: rgb(207, 188, 14);
+} */
+.navigation ul{
+    color: rgb(28, 10, 129);
+}
+span{
+    color: crimson;
+    font-family: "Larsseit";
+    font-weight: 700;
+}
+.bronzinos-portrait p{
+    color: rgb(47, 109, 151);
+    font-family: "Lato";
+    font-weight: 400;
+}
